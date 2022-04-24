@@ -6,6 +6,8 @@
   4. `node script.js` 
   5. and your good to go!
 
+To get an Openai key: https://beta.openai.com/signup
+
 # Features
 
   1. Autojoins giveaways of all your servers while farming
